@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471550965 source:/home/alunos/Documentos/VetoresC/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1471550858 /home/alunos/Documentos/VetoresC/header.h
+
